@@ -1,6 +1,6 @@
 using System;
 
-class Solution {
+public class Solution {
     public int solution(int N) {
         // Step 1: Convert the integer to binary
         var binary = Convert.ToString(N, 2);
