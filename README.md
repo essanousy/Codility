@@ -2,11 +2,6 @@
 
 This repository contains solutions to various lessons and challenges from Codility. Each solution is implemented in C# and aims to provide efficient and clear code to solve the given problems. The repository is organized by lesson, with each lesson containing one or more problem solutions.
 
-## Structure
-
-- `Lesson 1`: Problem solutions for Lesson 1.
-- `Lesson 2`: Problem solutions for Lesson 2. 
-
 ## Usage
 
 To use the solutions, navigate to the corresponding lesson directory and run the C# script for the problem you are interested in. Each script is self-contained and can be executed independently.
