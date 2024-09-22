@@ -1,4 +1,6 @@
-﻿internal class Program
+﻿using CodilityProject.BinaryGap;
+
+internal class Program
 {
     private static void Main(string[] args)
     {

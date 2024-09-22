@@ -1,3 +1,9 @@
+using Xunit;
+
+using CodilityProject.BinaryGap;
+
+namespace CodilityTests.BinaryGap;
+
 public class SolutionTests
 {
     [Theory]

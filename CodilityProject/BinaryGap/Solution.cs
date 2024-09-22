@@ -1,5 +1,5 @@
 using System;
-
+namespace CodilityProject.BinaryGap;
 public class Solution {
     public int solution(int N) {
         // Step 1: Convert the integer to binary
